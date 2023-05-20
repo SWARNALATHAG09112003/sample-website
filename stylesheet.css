@@ -1,0 +1,149 @@
+#topbar
+{
+	background-color:black;
+	height:10px;
+	width:100%;
+}
+#body
+{
+	background-color:black; 
+}
+#container
+{
+	background-color:white;
+	width:70%;
+	margin:0px auto;
+}
+#header
+{
+	height:80px;
+	background-color:white;
+}
+#header
+{
+	display:flex;
+	height:80px;
+}
+#header ul
+{
+	float:right;
+	margin-top: 25px;
+}
+#header ul li
+{
+	display: inline;
+	margin-right: 25px;
+}
+#header ul li a
+{
+	color: black;
+	text-decoration: none;
+	font-size: 18px
+}
+#banner img
+{
+	width: 100%;
+	padding-bottom: 20px;
+}
+#content1
+{
+	width: 32%;
+	height: 350px;
+	background-color: skyblue;
+	float: left;
+	margin-right:2%;
+	
+}
+.nav{
+	text-align: center;
+}
+.pic1{
+	text-align: center;
+}
+
+#content2{
+	width: 32%;
+	height: 350px;
+	background-color: darkcyan;
+	float: left;
+}
+#content3{
+	width: 32%;
+	height: 350px;
+	background-color:lightskyblue;
+	float: right;
+}
+.heading{
+	margin-left: 2px;
+	font-size: 28px;
+}
+.total{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.para1{
+	color: black;
+	margin-left: 20px;
+	margin-right: 8px;
+}
+.more{
+	text-decoration: none;
+	color:black;
+	background-color:paleturquoise;
+	padding: 8px;
+	margin-left: 20px;
+}
+#bottom1{
+	margin-top: 20px;
+	width: 60%;
+	background-color: white;
+	height: 300px;
+	float: left;
+}
+#bottom2{
+	margin-top: 60px;
+	width: 35%;
+	float: right;
+}
+#bottom1 h2{
+	color: black;
+	margin-left: 20px;
+}
+#bottom1 p{
+	color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#footer{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	clear: both;
+	
+}
+#footer ul
+{
+	float:left;
+	margin-top: 25px;
+}
+#footer ul li
+{
+	display: inline;
+	margin-right: 25px;
+}
+#footer ul li a
+{
+	color: white;
+	text-decoration: none;
+	font-size: 18px
+}
+#footer p{
+	color: white;
+	float: right;
+	margin-right: 20px;
+	margin-top: 30px;
+
+}
+
+
+
